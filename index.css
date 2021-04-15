@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+@import url('https://fonts.google.com/specimen/Chelsea+Market');
+
+.nav {
+font-color: red;
+}
+#orange-button {
+    margin: 0 125px;
+  border: 1px solid ;
+  padding: 30px;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 20px;
+  background: #FF764E;
+  text-align: center;
+}
+#blue-button {
+    margin: 0 125px;
+  border: 1px solid;
+  padding: 30px;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 20px;
+  background: #5ED3EB;
+  text-align: center;
+}
+#yellow-button {
+    margin: 0 120px;
+  border: 1px solid ;
+  padding: 30px;
+  display: inline-block;
+  border-radius: 20px;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 20px;
+  background: #FFCD69;
+  text-align: center;
+}
+.mountain {
+    float: left;
+  
+}
+img {
+    border-radius: 50%;
+    width: 25%;
+    margin: 5em;
+}
+.guide {
+    font-size: 40px;
+    text-align: right;
+}
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 100px;
+    text-align: right;
+    padding: 40px;
+}
+
+span {
+    font-weight: bold;
+}
+.middle {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+
+}
+ .about {
+    background: #DDB9A3;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    font-size: 120%;
+    text-align: center;
+    margin: auto;
+    padding: 1%; 
+}
+#fire {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+#car {text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+
+}
+#footerpic {
+    width: 100%;
+    height: 400%;
+    border-radius: 5px; 
+    display: block;
+    background-size: auto;
+   
+}
+
+footer {
+    background: #F9E7DC;
+}
